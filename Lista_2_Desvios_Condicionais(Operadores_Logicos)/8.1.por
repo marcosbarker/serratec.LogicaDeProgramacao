@@ -14,6 +14,7 @@ programa
 		escreva("Olá Mundo")
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
