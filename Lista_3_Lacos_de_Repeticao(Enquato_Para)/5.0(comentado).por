@@ -39,10 +39,10 @@ programa
   
 		se(auxGuardaSequencia == comparacao){              /*compara a sequencia na 'comparacao' com 'auxGuardaSequencia'. 
 											        'auxGuardaSequencia' tem o numero da 'sequencia' atribuido no inicio.*/
-			escreva(auxGuardaSequencia, " é um palíndromo")   
+			escreva(auxGuardaSequencia, " é um número palíndromo")   
 			
 		}senao{
-			escreva(auxGuardaSequencia, " não é palíndromo")
+			escreva(auxGuardaSequencia, " não é um número palíndromo")
 		
 		}
 	}
@@ -53,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2196; 
+ * @POSICAO-CURSOR = 2263; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {sequencia, 15, 10, 9}-{comparacao, 15, 21, 10};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

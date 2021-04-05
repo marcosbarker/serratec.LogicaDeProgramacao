@@ -29,10 +29,10 @@ programa
 		numero2 = numero2 / 10
 
 		se(auxiliar == numero2){
-			escreva(auxiliar, " é um palíndromo")
+			escreva(auxiliar, " é um número palíndromo")
 			
 		}senao{
-			escreva(auxiliar, " não é palíndromo")
+			escreva(auxiliar, " não é um número palíndromo")
 		
 		}
 	}
@@ -43,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 554; 
+ * @POSICAO-CURSOR = 690; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
