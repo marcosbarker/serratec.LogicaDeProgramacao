@@ -19,11 +19,11 @@ programa
           	leia(vetor[i])
        	}
 
-          escreva("\nSequência de entrada: ")
+        escreva("\nSequência de entrada: ")
     
-          para(i = 1; i < 6; i++){
+        para(i = 1; i < 6; i++){
       		escreva(vetor[i], " ")
-          }
+        }
     
       	enquanto(ordena == 1){
       		ordena = 0
@@ -35,20 +35,20 @@ programa
           			vet[i] = vet[i + 1]
          				vet[i + 1] = armazenaTroca
          				ordena = 1
-        			}
+        		}
 			}
 		}
     
-  	     escreva("\nSequência ordenada: ")
+  	    escreva("\nSequência ordenada: ")
     
-   	     para(i = 1; i < 6; i++){
+   	    para(i = 1; i < 6; i++){
   	     	escreva(vetor[i], " ")
        	}
     
-          escreva("\n")
-    
-	}
+         escreva("\n")
+  	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
