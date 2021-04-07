@@ -6,7 +6,6 @@ médio do vetor.
 
 programa
 {
-	
 	funcao inicio(){
 		
 		const inteiro tamanhoVetor=2
@@ -16,23 +15,23 @@ programa
 		escreva("Entre com números para serem registrados no vetor e obter a média\n")
 		
 		para(i = 0; i < tamanhoVetor; i++){
-			escreva("Entre com um número para registra no índice do vetor ", i + ": ")
+			escreva("Entre com um número para o índice ", i + ": ")
 			leia(vetor[i])
 			
 		}
 
-		media = med(vetor, tamanhoVetor, i)
-			escreva("A media dos valores registrados é ", media)
+		media = mediaFun(vetor, tamanhoVetor, i)
+			escreva("A média dos valores registrados é ", media)
 	}
 
-	funcao real med(inteiro vetor[], inteiro tamanhoVetor, inteiro i){
+	funcao real mediaFun(inteiro vetor[], inteiro tamanhoVetor, inteiro i){
 		real numero=0
 		para( i = 0; i < tamanhoVetor; i++){
 			numero = numero + vetor[i]
 		
 		}
 
-		retorne numero/tamanhoVetor
+	retorne numero / tamanhoVetor
 
 	}
 }
@@ -43,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 170; 
+ * @POSICAO-CURSOR = 716; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
