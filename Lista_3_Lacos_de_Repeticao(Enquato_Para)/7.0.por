@@ -4,7 +4,6 @@ Exercícios sobre o próximo tema :
 Dica : Para o exercício a seguir, leia o código p rocedimento_funcao.po r na pasta
 : Subrotinas/Procedimento e Função e utilize a estrutura “enquanto” para
 resolvê-los.
-
 7 - Escreva uma função que insere um nome em uma mensagem automática :
 Exemplo de entrada :
 Digite um nome : Fulano

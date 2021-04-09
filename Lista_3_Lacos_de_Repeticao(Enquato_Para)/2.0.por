@@ -11,13 +11,12 @@ Saída esperada:
 ...
 ...
 6x10 = 60
- */
+*/
  
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
 		inteiro numero, multiplicador, resultado
 	
@@ -39,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 414; 
+ * @POSICAO-CURSOR = 206; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

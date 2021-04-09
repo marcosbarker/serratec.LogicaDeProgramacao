@@ -9,17 +9,17 @@ Saída esperada:
   * *
  * * *
 * * * *
- */
+
+*/
  
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
-		inteiro asteristico, asteristico2, linha1=1, linha2=1, x
+		inteiro asteristico,asteristico2,linha1=1, linha2=1, i
 
-		escreva("entre com numero: ")
+		escreva("Entre com o tamanho da pirâmide: ")
 		leia(asteristico)
 
 		asteristico2 = asteristico
@@ -32,11 +32,11 @@ programa
 		}
 
 		enquanto(asteristico >= 0){
-			para(x = 0; x < linha2; x++){
+			para(i = 0; i < linha2; i++){
 				escreva(" ")
 			}
 
-			para(x = 0; x < linha1; x++){
+			para(i = 0; i < linha1; i++){
 				escreva("*")
 			}
 
@@ -56,7 +56,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 616; 
+ * @POSICAO-CURSOR = 351; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

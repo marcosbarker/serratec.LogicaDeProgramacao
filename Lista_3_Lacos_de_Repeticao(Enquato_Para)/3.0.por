@@ -9,14 +9,13 @@ Saída esperada:
 12
 123
 1234
- */
+*/
  
 programa
 {
 	               
-	funcao inicio()
-	
-	{
+	funcao inicio(){
+		
 		inteiro N, contador1, contador2 	
 		 
 		escreva("Entre com o número para base da pirâmide: ")
@@ -39,9 +38,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 416; 
+ * @POSICAO-CURSOR = 214; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {contador1, 20, 13, 9}-{contador2, 20, 24, 9};
+ * @SIMBOLOS-INSPECIONADOS = {contador1, 19, 13, 9}-{contador2, 19, 24, 9};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */

@@ -5,16 +5,16 @@ Exemplo de entrada :
 12321
 Saída esperada:
 12321 é um número palíndromo
- */
+*/
 
 programa
 {
 	
-	funcao inicio()
-	{
-		inteiro sequencia, comparacao = 0, auxGuardaSequencia  /* 'sequencia' é o número de entrada a ser avaliado
-													'comparação' vai pegar cada numero da sequencia e passar pelo enquanto
-		escreva("\tTeste Palíndromo\n")					'auxQuardaSequencia' guarda a 'sequencia' original para comparar com 'comparacao' no final*/ 	
+	funcao inicio(){
+		
+		inteiro sequencia, comparacao = 0, auxGuardaSequencia  // 'sequencia' é o número de entrada a ser avaliado
+													//'comparação' vai pegar cada numero da sequencia e passar pelo enquanto
+		escreva("\tTeste Palíndromo\n")					//'auxQuardaSequencia' guarda a 'sequencia' original para comparar com 'comparacao' no final	
 		escreva("Entre com uma sequência númerica: ")
 		leia(sequencia)
 		auxGuardaSequencia = sequencia			          // 'auxGuardaSequencia' recebe numero da 'sequencia'
@@ -53,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2263; 
+ * @POSICAO-CURSOR = 475; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {sequencia, 15, 10, 9}-{comparacao, 15, 21, 10};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

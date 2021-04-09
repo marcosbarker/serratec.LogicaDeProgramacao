@@ -5,13 +5,13 @@ Exemplo de entrada :
 12321
 Saída esperada:
 12321 é um número palíndromo
- */
+*/
 
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		inteiro numero1, numero2 = 0, auxiliar 
 
 		escreva("\tTeste Palíndromo\n")
@@ -43,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 690; 
+ * @POSICAO-CURSOR = 202; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
