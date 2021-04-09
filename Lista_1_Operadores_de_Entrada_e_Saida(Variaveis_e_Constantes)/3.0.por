@@ -9,13 +9,12 @@ Digite o número de horas trabalhadas no ano : 1760
 Digite o número de horas extras trabalhadas no ano : 400
 Saída :
 Seu salário anual é de : R$ 23600 
- */
+*/
  
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
 		inteiro horaN, horaE, resultado
 
@@ -38,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 830; 
+ * @POSICAO-CURSOR = 841; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

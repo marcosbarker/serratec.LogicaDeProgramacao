@@ -8,13 +8,13 @@ Digite seu nome : Fulano
 Digite seu sobrenome : de Tal
 Saída:
 Meu nome é : Fulano de Tal
- */
+*/
 
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		cadeia nome, sobrenome
 
 		escreva("Qual seu primeiro nome? \n>")
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 318; 
+ * @POSICAO-CURSOR = 319; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

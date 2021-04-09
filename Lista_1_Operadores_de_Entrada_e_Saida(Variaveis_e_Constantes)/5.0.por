@@ -16,8 +16,7 @@ O número 2 é maior que o número 1
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
 		inteiro numero1, numero2
 
@@ -44,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 714; 
+ * @POSICAO-CURSOR = 479; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
