@@ -16,10 +16,19 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> 
-<!--
-Trabalho em grupo feito como requisito parcial da disciplina Lógica de Programação, 10 questões desenvolvidas com a ferramenta Portugol Studio.  
--->
+## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Conteúdo Programático
+
+- Compreender a l ógica booleana (E, OU, NOT).
+- Entender a á rvore de decisão.
+- Saber utilizar as e struturas de laço.
+- Conhecer o c onceito de recursividade.
+- Entender a e strutura de dados (vetor, matriz, fila, pilha...).
+- Compreender o c onceito de variável e constante.
+- Saber utilizar um sistema de controle de versão (GIT).
+<br/>
+<br/>
+*Toralizando 54h*
+
 ## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
 
 <table>
