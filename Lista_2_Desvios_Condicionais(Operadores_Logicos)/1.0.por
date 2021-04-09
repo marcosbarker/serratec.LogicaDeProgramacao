@@ -6,13 +6,13 @@ Exemplo de entrada:
 40 55 65
 Saída esperada:
 O triângulo não é válido
- */
+*/
 
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		inteiro ang1, ang2, ang3
 		
 		escreva("Digite o primeiro ângulo: ")
@@ -27,7 +27,7 @@ programa
 		se(ang1 + ang2 + ang3 == 180 e ang1 != 0 e ang2 != 0 e ang3 != 0){
 			escreva("É triangulo")
 		
-			}senao{
+		}senao{
 
 			escreva("Não é triangulo")
 		}
@@ -39,7 +39,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 580; 
+ * @POSICAO-CURSOR = 567; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

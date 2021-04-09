@@ -18,30 +18,29 @@ Fila preferencial
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
 	inteiro idade
 	cadeia sexo, condicaoEspecial
 
-	escreva("Tomador de desisão para fila preferencial \n")
+		escreva("Tomador de desisão para fila preferencial \n")
 
-	escreva("Qual sua idade: ")
-	leia(idade)
+		escreva("Qual sua idade: ")
+		leia(idade)
 
-	escreva("Qual seu sexo? Responda M ou F: ")
-	leia(sexo)
+		escreva("Qual seu sexo? Responda M ou F: ")
+		leia(sexo)
 
-	escreva("Possui condição especial? Responda sim ou Não: ")
-	leia(condicaoEspecial)
+		escreva("Possui condição especial? Responda sim ou Não: ")
+		leia(condicaoEspecial)
 
-	se(idade > 60 ou condicaoEspecial == "sim"){
+		se(idade > 60 ou condicaoEspecial == "sim"){
 
-		escreva("Fila preferencial")
+			escreva("Fila preferencial")
 		
-	}senao{
+		}senao{
 
-	escreva("Fila comum")
+		escreva("Fila comum")
 	
 		}
 	}
@@ -52,7 +51,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 951; 
+ * @POSICAO-CURSOR = 929; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

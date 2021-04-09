@@ -9,8 +9,8 @@ Saída esperada:
 programa 
 {
 		
-	funcao inicio() 
-	{
+	funcao inicio(){
+		
 		inteiro  numN, N
 
 		numN = 1
@@ -19,8 +19,8 @@ programa
 		leia(N)
 		
 		enquanto(numN <= N){         //'para' igual 'for'
-			escreva(numN + " ")   //as aspas (" ") e o espaço dentro é para separar os números na impressão(escreva)
-	     	numN = numN + 1      //para esse incremento pode substituir o 'numN+1 por numN++'
+			escreva(numN + " ") 	  //as aspas (" ") e o espaço dentro é para separar os números na impressão(escreva)
+	     	numN = numN + 1         //para esse incremento pode substituir o 'numN+1 por numN++'
 		}
 	}
 }
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 179; 
+ * @POSICAO-CURSOR = 156; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

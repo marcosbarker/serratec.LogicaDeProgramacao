@@ -5,13 +5,13 @@ Exemplo de entrada:
 2020
 Saída esperada:
 4
- */
+*/
 
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		inteiro n, soma=0
 
 		escreva("Digite um número: ")
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 345; 
+ * @POSICAO-CURSOR = 166; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

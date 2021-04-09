@@ -14,14 +14,14 @@ homem
 deficiente
 Saída esperada:
 Fila preferencial
- */
+*/
  
 programa
 {
 	inteiro idade, condS, sexo
 		
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		escreva("Digite sua idade: ")
 		leia(idade)
 
@@ -46,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 822; 
+ * @POSICAO-CURSOR = 550; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -8,13 +8,13 @@ Exemplo de entrada:
 6
 Saída esperada:
 1 2 3 4 5 6
- */
+*/
  
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
+		
 		inteiro numero, resultado, contador
 
 		escreva("Informe um número: ")
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 348; 
+ * @POSICAO-CURSOR = 343; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

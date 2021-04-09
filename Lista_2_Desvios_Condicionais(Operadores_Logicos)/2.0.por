@@ -10,13 +10,12 @@ O triângulo é isósceles
 Equilatero tres angulo iquais
 Escaleno tres angulo diferentes
 Isoceles dois angulo iguais
- */
+*/
  
 programa
 {
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 
 		inteiro a1, a2, a3
 		
@@ -53,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 754; 
+ * @POSICAO-CURSOR = 306; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

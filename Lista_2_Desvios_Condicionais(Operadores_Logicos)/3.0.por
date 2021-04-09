@@ -10,15 +10,15 @@ k é uma consoante
 programa
 {
 	
-	funcao inicio()
-	{
-		caracter ent
+	funcao inicio(){
+		
+		caracter entrada
 
 		escreva("Digite uma letra: ")
-		leia(ent)
+		leia(entrada)
 
-		se(ent == 'a' ou ent == 'e' ou ent == 'i' ou ent == 'o' ou ent == 'u' 
-		   ou ent == 'A' ou ent == 'E' ou ent == 'I' ou ent == 'O' ou ent == 'U'){
+		se(entrada == 'a' ou entrada == 'e' ou entrada == 'i' ou entrada == 'o' ou entrada == 'u' 
+		   ou entrada == 'A' ou entrada == 'E' ou entrada == 'I' ou entrada == 'O' ou entrada == 'U'){
 			escreva("A letra é uma vogal")
 		
 		}senao{
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 372; 
+ * @POSICAO-CURSOR = 406; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
