@@ -30,7 +30,7 @@
 
 <br/>
 
-*Toralizando 54h*
+*Totalizando 54h*
 
 <br/>
 
