@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Lógica de Programação</h1>
-<h2 align="center">Material de Aula</h2>-->
+<h2 align="center">Material de Aula</h2>
 <h3 align="center">Professor Marcelo Machado Collares</h3>
 
 <!--
