@@ -1,5 +1,5 @@
 <p align="center">
-<img height="80px" src="https://github.com/Volneineves/Grupo01-turmaMarcelo/blob/trabalhoFinal/assets/logoSerratec.png" alt="logo serratec">
+<img height="80px" src="assets/logoSerratec.png" alt="logo serratec">
 </p>
 
 <h1 align="center">Lógica de Programação</h1>
@@ -18,7 +18,7 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Conteúdo Programático
+## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
 
 - [x] Compreender a l ógica booleana (E, OU, NOT).
 - [x] Entender a á rvore de decisão.
@@ -34,7 +34,7 @@
 
 <br/>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Tecnologia Utilizada
+## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
 
 - [Portugol Studio](https://portugol-webstudio.cubos.io/)
 
