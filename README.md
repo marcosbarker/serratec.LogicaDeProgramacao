@@ -28,17 +28,15 @@
 - [x] Compreender o c onceito de variável e constante.
 - [x] Saber utilizar um sistema de controle de versão (GIT).
 
-<br/>
-
 *Totalizando 54h*
-
-<br/>
 
 ## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
 
 - [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
-<!--## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
+<p align="center">
+  <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
+</p>
 
 <table>
   <tr>
@@ -90,4 +88,4 @@
         </sub>
       </a><br>
     </td>
-</table>-->
+</table>
