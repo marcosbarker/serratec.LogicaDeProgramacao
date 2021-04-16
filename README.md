@@ -36,7 +36,7 @@
 
 ## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
 
-- [Portugol Studio](https://portugol-webstudio.cubos.io/)
+- [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>Documentação</i>]()
 
 <!--## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
 
