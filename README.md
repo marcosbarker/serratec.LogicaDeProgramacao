@@ -18,7 +18,7 @@
 
 </br>
 
-## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
+## <img  height="45px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
 - [x] Compreender a l ógica booleana (E, OU, NOT).
 - [x] Entender a á rvore de decisão.
@@ -30,7 +30,7 @@
 
 *Totalizando 54h*
 
-## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
+## <img  height="50px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
 - [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
