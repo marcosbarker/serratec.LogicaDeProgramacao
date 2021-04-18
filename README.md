@@ -34,7 +34,7 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Listas e Exercícios
 
-1. [Operações de Entrada e Saída (Variáveis e Constantes)](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Lista_1_Operadores_de_Entrada_e_Saida(Variaveis_e_Constantes))
+1. [Operações de Entrada e Saída (Variáveis e Constantes)](Lista_1_Operadores_de_Entrada_e_Saida(Variaveis_e_Constantes)/)
 2. [Desvios Condicionais (Operadores Lógicos)](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Lista_2_Desvios_Condicionais(Operadores_Logicos))
 3. [Laços de Repetição (enquanto, para até)](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Lista_3_Lacos_de_Repeticao(Enquato_Para))
 4. [Funções e Recursividade](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Lista_4%20_%20Funcoes_e_Recursividade) 
