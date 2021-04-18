@@ -30,6 +30,8 @@
 
 *Totalizando 54h*
 
+</br>
+
 ## <img  height="40px" align="center" src="assets/coin.gif"> Listas e Exercícios
 
 1. [Operações de Entrada e Saída (Variáveis e Constantes)](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Lista_1_Operadores_de_Entrada_e_Saida(Variaveis_e_Constantes))
@@ -42,7 +44,9 @@
 
 ⚡[<b>Trabalho Final</b>](https://github.com/marcosbarker/serratec.LogicaDeProgramacao/tree/main/Trabalho_Final)
 
-## <img  height="40px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+</br>
+
+## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
 - [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
