@@ -43,7 +43,8 @@
 *  [Feitos em Aula](Feitos_em_Aula/)
 *  [Material de Aula](Material_de_Aula/)<br/>
 
-⚡[<b>Trabalho Final</b>](Trabalho_Final/)
+### ⚡Trabalho Final 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Lista de Atividades**](Trabalho_Final/)
 
 </br>
 
